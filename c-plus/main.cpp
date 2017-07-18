@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
 	for(num=1; num<=10;num++)
 	{
 	
-	cout << "Hello! Sutiwat :" << num << endl;
+	cout << "Hello! Loop Number :" << num << endl;
 }
 	 system("pause");
 	return 0;
